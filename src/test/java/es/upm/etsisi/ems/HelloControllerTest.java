@@ -1,4 +1,4 @@
-Rpackage es.upm.etsisi.ems;
+package es.upm.etsisi.ems;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
